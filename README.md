@@ -1,5 +1,6 @@
 <h1 align="center">Hi there, I'm Dmitry 👋</h1>
-
+I'm a beginner backend developer.
+Technologies that I study and use:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
